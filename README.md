@@ -9,7 +9,7 @@ This repo contains all my solutions to various **HackerRank challenges** — org
 ```
 Hackerrank-Solutions/
 │
-├── C++/
+├── Language (ex: CPP)/
 │ ├── Easy/
 │ ├── Medium/
 │ └── Hard/
